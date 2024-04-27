@@ -1,7 +1,8 @@
 # KBM-ControllerSwitchDetector
-Godot 4.1+ Addon which detects if player is using controller or the Mouse And Keyboard input method. 
 
-![KBM-ControllerSwitchDetector-Logo](https://github.com/xShader1374/KBM-ControllerSwitchDetector/blob/main/addons/kbm-controller_switch_detector/KBM-Controller_Switch_Detector.svg?raw=true)
+![KBM-ControllerSwitchDetector-Logo](https://github.com/xShader1374/KBM-ControllerSwitchDetector/blob/main/addons/kbm-controller_switch_detector/KBM-Controller_Switch_Detector%20(512x512).png?raw=true)
+
+Godot 4.1+ Addon which detects if player is using controller or the Mouse And Keyboard input method. 
 
 Description:
 This plugin can detect if input is coming from Keyboard And Mouse or Controller, and can detect what type of controller is being used (Xbox, PlayStation, Nintendo, Steam), it uses a simple autoload so you don't have to do anything else other than just using it!
